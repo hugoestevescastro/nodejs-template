@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-base-project",
+  "version": "1.0.0",
+  "author": "Hugo Esteves",
+  "description": "Basic nodeJS project structure",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "path": "^0.12.7",
+    "url-to-options": "^1.0.1"
+  }
+}
